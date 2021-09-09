@@ -1,8 +1,6 @@
-- 👋 Hi, my name is Alisher. I'm a web developer from Uzbekistan.
+- 👋 Hi, my name is Alisher. I'm a web developer from Uzbekistan. I use PHP, Laravel 7/8, JavaScript, Vue as well as Postgresql to develope web applications.
 - 👀 I’m interested in learning something new, almost everyday!
 - 🌱 Now, I'm intending to learn data science and machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 AlisherNPortfolio/AlisherNPortfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
